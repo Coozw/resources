@@ -14,11 +14,59 @@
     }
   },
   "iOS": {
+    "version": {
+      "minimum":  "0.1.0",
+      "latest": "0.1.0"
+    },
+    "download_url": "https://play.google.com/store/apps/details?id=app.librokit",
+    "status": {
+      "active": false,
+      "message": {
+        "en": "This is a message in English.",
+        "zh": "这是一条中文消息."
+      }
+    }
   },
   "macOS": {
+    "version": {
+      "minimum":  "0.1.0",
+      "latest": "0.1.0"
+    },
+    "download_url": "https://play.google.com/store/apps/details?id=app.librokit",
+    "status": {
+      "active": false,
+      "message": {
+        "en": "This is a message in English.",
+        "zh": "这是一条中文消息."
+      }
+    }
   },
   "windows": {
+    "version": {
+      "minimum":  "0.1.0",
+      "latest": "0.1.0"
+    },
+    "download_url": "https://play.google.com/store/apps/details?id=app.librokit",
+    "status": {
+      "active": false,
+      "message": {
+        "en": "This is a message in English.",
+        "zh": "这是一条中文消息."
+      }
+    }
   },
   "linux": {
+    "version": {
+      "minimum":  "0.1.0",
+      "latest": "0.1.0"
+    },
+    "download_url": "https://play.google.com/store/apps/details?id=app.librokit",
+    "status": {
+      "active": false,
+      "message": {
+        "en": "This is a message in English.",
+        "zh": "这是一条中文消息."
+      }
+    }
   }
 }
